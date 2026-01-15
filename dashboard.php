@@ -1115,7 +1115,7 @@ require_once __DIR__ . '/include/header.php';
                             <?php echo h(!empty($locationName) ? $locationName : 'N/A'); ?>
                         </span>
                     </div>
-                    <h1>Test</h1>
+                   
                     <!-- Supervisor Information -->
                     <div class="info-item supervisor-item">
                         <span class="info-label">
